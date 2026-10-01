@@ -1,6 +1,6 @@
 # 邓白氏与税号材料笔记
 
-围绕组织注册常见材料：如何准备 D-U-N-S，以及何时会遇到 EIN 等税号信息。
+围绕组织注册常见材料：如何申请并对齐 D-U-N-S，理解 EIN/ITIN/SSN 出现场景，并在提交前完成材料检查表。
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-online-2ea44f?logo=github)](https://puzzledicon.github.io/duns-tax-id-guides/)
 
