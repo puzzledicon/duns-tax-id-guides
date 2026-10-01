@@ -38,6 +38,10 @@
 - [D-U-N-S 说明](https://www.dnb.com/duns-number.html)
 - [IRS](https://www.irs.gov/)
 
+## 咨询协助
+
+注册、验证、内购开通等问题可通过 Telegram 咨询：**[@M6999](https://t.me/M6999)**
+
 ## 延伸阅读
 
 - [playconsoleacc.com](https://playconsoleacc.com/)  
